@@ -1,0 +1,16 @@
+DomesticAndWildAnimal
+Pig
+Hair
+true
+ExtinctAnimal
+Cape Lion
+1876
+Lion
+GiganticExtinctAnimal
+Dinosaur
+1100
+Brachiosaurus
+DomesticAndWildAnimal
+Cat
+Furry
+true
